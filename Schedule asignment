@@ -1,0 +1,101 @@
+<select class="dropdown">
+  <option>Start Time</option>
+  <option class="Advisory">8:00</option>
+  <option class="class1">8:30</option>
+  <option class="class2">9:23</option>
+  <option class="break1">10:13</option>
+  <option class="class3">10:35</option>
+  <option class="lunch">11:25</option>
+  <option class="class4">11:55</option>
+  <option class="class5">12:48</option>
+  <option class="break2">1:38</option>
+  <option class="class6">2:00</option>
+</select>
+<select class="dropdown">
+  <option>End Time</option>
+  <option class="Advisory">8:30</option>
+  <option class="class1">9:20</option>
+  <option class="class2">10:13</option>
+  <option class="break1">10:34</option>
+  <option class="class3">11:25</option>
+  <option class="lunch">11:55</option>
+  <option class="class4">12:45</option>
+  <option class="class5">1:38</option>
+  <option class="break2">1:57</option>
+  <option class="class6">2:50</option>
+</select>
+<table style="width:25%">
+  <tr>
+    <th>Katerine vasquez</th>
+  </tr>
+  <tr>
+  <th>Classes</th>
+  </tr>
+  <tr>
+ <td class="Advisory">Advisory</td>
+  </tr>
+  <tr>
+ <td class="class1">Englesh II</td>
+  </tr>
+  <tr>
+    <td class="class2">Algebra II</td>
+  </tr>
+  <tr>
+    <td class="break1">Break 1</td>
+  </tr>
+  <tr>
+    <td class="class3">Latin II</td>
+  </tr>
+  <tr>
+    <td class="lunch">Lunch</td>
+  </tr>
+  <tr>
+  <td class="class4">College prep II</td>
+  </tr>
+  <tr>
+    <td class="class5">Eld link</td>
+  </tr>
+  <tr>
+    <td class="break2">Break 2</td>
+  </tr>
+  <tr>
+    <td class="class6">Industry Prep</td>
+  </tr>
+</table>
+
+
+
+css
+table, th, td {
+  border: 1px solid black;
+}
+.break2{
+  background-color:red;
+}
+.break1{
+  background-color:#D1B48C;
+}
+.lunch{
+  background-color:#D1B48C;
+}
+.Advisory{
+  background-color:red;
+}
+.class1{
+  background-color:#D1B48C;
+}
+.class2{
+  background-color:red;
+}
+.class3{
+  background-color:red;
+}
+.class4{
+  background-color:red;
+}
+.class5{
+  background-color:#D1B48C;
+}
+.class6{
+  background-color:#D1B48C;
+}
